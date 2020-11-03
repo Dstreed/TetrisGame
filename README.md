@@ -18,7 +18,7 @@ c’est mon premier jeu basé sur les langages html, css et javascript le design
 
 ## Functionnalité
 
-- Rotation des pieces avec le clavier
+- Rotation des pieces avec les touches directionnelles
 - Affichage du score
 - Boutton Jouer/Pause
 - Couleur de chaque piece
